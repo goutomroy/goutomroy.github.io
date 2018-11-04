@@ -1,5 +1,4 @@
 # Goutom Roy
-
 #### Dhaka, Bangladesh
 #### goutom.sust.cse@gmail.com | +8801711664606
 
