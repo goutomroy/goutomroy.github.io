@@ -4,8 +4,8 @@
 #### goutom.sust.cse@gmail.com | +8801711664606
 
 
-## Career Objective
-
+Career Objective
+-----------------
 
 ```
 I am a full stack developer and a big fan of free and open source software. My
@@ -26,7 +26,8 @@ of Django. Also 6+ years of Android application development experience.
     application.
     
     
-## ACM (Association for Computing Machinery) programming skill
+ACM (Association for Computing Machinery) programming skill
+------------------------------------------------------------
 
 - Most of my university life I spent on ACM programming in UVA online judge ,
   Sphere Online Judge.
@@ -36,8 +37,8 @@ of Django. Also 6+ years of Android application development experience.
   personally. I attended in NCPC (National Computer Programming Contest)and ICPC   (International Computer Programming Contest) on behalf of Shahjalal University of Science and Technology with my team in 2008.
   
   
-## Areas of Expertise
-
+Areas of Expertise
+----------------------
 
 
 **Programming Languages:** C, C++, Python, Java
@@ -61,7 +62,8 @@ Developer, LibreOffice writer, Microsoft Office
 
 
 
-## Pure Python Project
+Pure Python Project
+-----------------------
 
 ```
 Wordforge, a Localization tool. Wordforge is a Sourceforge.net
@@ -75,9 +77,8 @@ here.
 ```
 
 
-## Developed Android Applications
-
-
+Developed Android Applications
+---------------------------------
 
 #### WorkJapan
 ```
@@ -129,7 +130,9 @@ Learning how to forgive by Dr. Fred Luskin. I wrote whole application.
 ```
 
 
-## Server Side Projects
+Server Side Projects
+---------------------
+
 
 #### WorkJapan 
 
@@ -187,21 +190,24 @@ DigitalOcen
 ```
 
 
-## Undergraduate thesis
+Undergraduate thesis
+------------------------
+
 ```
 Titled "Pattern matching algorithm analysis and their implementation on
 bioinformatics" Based on the analysis of different multiple sequence alignment
 algorithms and their performance measurement on building phylogenetic tree.
 ```
 
-## Online Profiles
+Online Profiles
+----------------------------
 
 - [Github](https://github.com/goutomroy/)
 - [AngelList](https://angel.co/goutom-roy)
 
 
-## Job Experience
-
+Job Experience
+-----------------
 
 #### Ankur ICT DEVELOPMENT FOUNDATION 
 ```
@@ -236,7 +242,8 @@ July 2017 to present – 1 year 5+ months
 University of Science and Technology.
 ```
 
-## Reference
+Reference
+-------------------
 
 ```
 Professor Dr. Md. ZafarIqbal
